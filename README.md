@@ -9,12 +9,12 @@ Being able to correctly classify questions is a nontrivial task that would help 
 
 The general structure of this repository contains three main directories, as shown below:
 
-📦Quiz Bowl Question Classifier
-    ┣ 📂Jupyter Notebook
-    ┃  ┣ 📂Models
-    ┃  ┣ 📂Project_Data
-    ┣ 📂Flask_App
-    ┗ 📂Documentation
+📦Quiz Bowl Question Classifier  
+    ┣ 📂Jupyter Notebook  
+    ┃  ┣ 📂Models  
+    ┃  ┣ 📂Project_Data  
+    ┣ 📂Flask_App  
+    ┗ 📂Documentation  
 
 **Jupter Notebook**: Contains a completely executed jupyter notebook containing the step-by-step machine learning process. This also has folders containing all input data and the generated models.
 
@@ -38,11 +38,10 @@ The below list shows the general methodology / data pipeline for this project:
 6. Scoring / Analysis
 7. Deployment
 
-
 ## How to use this project
 Please feel to reference, use, and/or adapt any or all parts of this repository, including code, methodology or analysis in any way you wish. I encourage everyone to try and improve the performance of my current models! The data in this repository is not owned by me, and as such is subject to any restictions put forth by the respective owners. 
 
-## Credits:
+## Credits
 * [quizdb.org](https://www.quizdb.org/) for inspiration and training data. (This has since been shut-down, but is based on data from [quizbowlpackets.com](https://quizbowlpackets.com/))
 * [triviabliss.com](https://triviabliss.com/) for additional comparison data
 * Professor James Puckett for instruction and guidance
