@@ -1,0 +1,55 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+html {
+    background-color: lightpink;
+}
+
+div {
+    padding: 10px;
+}
+
+div.content {
+    width: 50%;
+    margin: auto;
+}
+
+p, form {
+    text-align: center;
+}
+
+button.qBtn {
+    margin: auto;
+    width: 25%;
+    display: block;
+    background-color: green;
+    color: white;
+    border: 1px black solid;
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+}
+
+button.qBtn:hover {
+    display: block;
+    background-color: darkgreen;
+    color: grey
+    border: 1px black solid;
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+}
+
+
+table {
+    border: 2px black solid;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+td {
+    border: 1px black solid;
+}
